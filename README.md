@@ -15,6 +15,6 @@ HMS 520 final project
 
 #overall project goal: to create a set of functions that will allow me to determine co-localization from imaging data. For example, if I have an image from a microscope of a cell that has two fluorescently-labeled proteins, I want to be able to tell what percentage of pixels that are labeled with fluorescent stain #1 are also co-labeled with fluorescent stain #2 (ie. what percentage of green pixels are also red? what percentage of red pixels are also green?). Additionally, I want to do this for two different conditions (ie. one image is of a cell from a control group, and one image is of a cell from a scientifically relevant question), and compare the co-localiztion results between the two conditions.
 
-This github repo includes a folder for the images that will be analyzed, as well as my functions and methods for accomplishing the co-localization analysis 
+This github repo includes the images that will be analyzed, as well as my functions and methods for accomplishing the co-localization analysis 
 
 The required libraries for executing this project include: library(imager) and library(jpeg) 
