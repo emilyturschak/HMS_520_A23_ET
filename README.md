@@ -18,3 +18,4 @@ HMS 520 final project
 This github repo includes the images that will be analyzed, as well as my functions and methods for accomplishing the co-localization analysis 
 
 The required libraries for executing this project include: library(imager) and library(jpeg) 
+Another important requirement: the images that are being compared (ie. 'fluorescent label #1' and fluorescent label #2') must have the same pixel dimensions
